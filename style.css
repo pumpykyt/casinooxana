@@ -1,0 +1,37 @@
+body{
+    background-color: #1c1d27;
+}
+
+iframe{
+    height: 560px;
+    width: 960px;
+    display: block;
+    margin: auto;
+    border: 30px solid #131521;
+    border-radius: 20px;
+    margin-top: 7%;
+}
+
+.footer{
+    background: #131521;
+    color:white;
+}
+
+ul li a{
+    color :white;
+}
+
+ul li a:hover{
+    color:  white;
+    text-emphasis-style: none;
+}
+
+iframe, object, embed {
+    max-width: 100%;
+}
+
+.btn-group{
+    margin-top: 1%;
+    border: 10px solid #131521;
+    border-radius: 10px;;
+}
